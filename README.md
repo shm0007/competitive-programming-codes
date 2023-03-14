@@ -1,4 +1,4 @@
-## This repository contains some of my solutions in various online judges.
+This repository contains some of my solutions in various online judges.
 
 ### Leetcode
 - [1478. Allocate Mailboxes]
